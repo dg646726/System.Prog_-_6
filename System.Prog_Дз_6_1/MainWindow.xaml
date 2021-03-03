@@ -15,6 +15,7 @@
             <CheckBox x:Name="WriteInFileCheckBox" DockPanel.Dock="Top" FontSize="20" HorizontalAlignment="Right" Margin="5,2">File</CheckBox>
         </Menu>
         <StackPanel DockPanel.Dock="Right">
+            <TextBlock FontSize="16">Task 4</TextBlock>
             <CheckBox x:Name="checkBox1"></CheckBox>
             <CheckBox x:Name="checkBox2"></CheckBox>
             <CheckBox x:Name="checkBox3"></CheckBox>
